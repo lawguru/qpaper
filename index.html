@@ -9,7 +9,13 @@
 <body>
   <header>
     <h1>MU Question Papers</h1>
-    <input type="text" id="searchInput" placeholder="Search by subject..." />
+    <div class="search-bar">
+      <select id="subjectDropdown">
+        <option value="">-- Select Subject --</option>
+        <!-- Options will be dynamically loaded -->
+      </select>
+      <button id="searchBtn">Search</button>
+    </div>
   </header>
 
   <main id="papersList"></main>
