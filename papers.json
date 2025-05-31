@@ -1,0 +1,20 @@
+[
+  {
+    "subject": "Computer Networks",
+    "semester": "5",
+    "year": "2023",
+    "link": "https://example.com/computer-networks-2023.pdf"
+  },
+  {
+    "subject": "Data Structures",
+    "semester": "3",
+    "year": "2022",
+    "link": "https://example.com/data-structures-2022.pdf"
+  },
+  {
+    "subject": "Computer Networks",
+    "semester": "5",
+    "year": "2022",
+    "link": "https://example.com/computer-networks-2022.pdf"
+  }
+]
